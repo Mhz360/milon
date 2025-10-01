@@ -22,10 +22,14 @@ http://10.16.100.213/iccftps13/iccftps13sasd6/Movies/Hindi/Sitaare%20Zameen%20Pa
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies;Hindi",2. Bridge to Terabithia (2007) Dual Audio
 http://10.16.100.241/ftps3d3/Dual%20Audio/Bridge%20to%20Terabithia%20(2007)/Bridge%20to%20Terabithia%202007.mkv
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies;Hindi",2. lucky baskhar
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies;Hindi",3. lucky baskhar
 http://10.16.100.214/iccftps14/iccftps14sasd8/Movies/South%20Indian%20(Hindi%20Dubbed)/Lucky%20Baskhar%20(2024)%201080p%20WEBDL.mp4
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies;Hindi",4. Tumbbad
+http://10.16.100.212/iccftps12/iccftps12sasd9/Movies/Hindi/Tumbbad%20(2018)%201080p%20WEBRip.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies;Hindi",5. Hugo (2011) (Hindi + English)
+http://10.16.100.213/iccftps13/iccftps13sasd2/Movies/Dual%20Audio/Hugo%20(2011)%20(Hindi%20&%20English)%201080p%20WEBRip.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies;Hindi",6. Inside Out 2 (Hindi + English)
+http://10.16.100.206/ftps3/ftps3d5/Movies/Dual%20Audio/Inside%20Out%202%20(2024)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
 
 
 
@@ -53,6 +57,7 @@ http://10.16.100.202/ftps10/iccftps10sasd2/Tv%20Show/Dual%20Audio/Squid%20Game%2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Web Series;English",Squid Game S01E011
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Web Series;English",Squid Game S01E012
+
 
 
 
