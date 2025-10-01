@@ -1,21 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies;Animation",1. Elio
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Animation Movies",1. Elio
 http://10.16.100.214/iccftps14/iccftps14sasd7/Movies/Animated/Elio%20(2025)%201080p%20WEBRip.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies;Animation",2. Moana 2 (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Animation Movies",2. Moana 2 (Hindi + English)
 http://10.16.100.213/iccftps13/iccftps13sasd9/Movies/Dual%20Audio/Moana%202%20(2024)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies;Animation",4. How to Train Your Dragon (2025) (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Animation Movies",4. How to Train Your Dragon (2025) (Hindi + English)
 http://10.16.100.212/iccftps12/iccftps12sasd9/Movies/Dual%20Audio/How%20to%20Train%20Your%20Dragon%20(2025)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies;Animation",4. Mufasa The Lion King (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Animation Movies",4. Mufasa The Lion King (Hindi + English)
 http://10.16.100.213/iccftps13/iccftps13sasd3/Movies/Dual%20Audio/Mufasa%20The%20Lion%20King%20(2024)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies;Animation",5. Inside Out 2 (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Animation Movies",5. Inside Out 2 (Hindi + English)
 http://10.16.100.206/ftps3/ftps3d5/Movies/Dual%20Audio/Inside%20Out%202%20(2024)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies;Animation",6. Encanto
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Animation Movies",6. Encanto
 http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Animated/Encanto%20(2021)%201080p%20WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies;Animation",7. Luca
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Animation Movies",7. Luca
 http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Animated/Luca%20(2021)%201080p%20BluRay.mp4
 
 
@@ -23,54 +20,43 @@ http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Animated/Luca%20(2021)%201080p
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies;Hindi",1. Sitaare Zameen Par
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",1. Sitaare Zameen Par
 http://10.16.100.213/iccftps13/iccftps13sasd6/Movies/Hindi/Sitaare%20Zameen%20Par%20(2025)%20720p%20WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies;Hindi",2. Bridge to Terabithia (2007) Dual Audio
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",2. Bridge to Terabithia (2007) Dual Audio
 http://10.16.100.241/ftps3d3/Dual%20Audio/Bridge%20to%20Terabithia%20(2007)/Bridge%20to%20Terabithia%202007.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies;Hindi",3. lucky baskhar
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",3. lucky baskhar
 http://10.16.100.214/iccftps14/iccftps14sasd8/Movies/South%20Indian%20(Hindi%20Dubbed)/Lucky%20Baskhar%20(2024)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies;Hindi",4. Tumbbad
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",4. Tumbbad
 http://10.16.100.212/iccftps12/iccftps12sasd9/Movies/Hindi/Tumbbad%20(2018)%201080p%20WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies;Hindi",5. Hugo (2011) (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",5. Hugo (2011) (Hindi + English)
 http://10.16.100.213/iccftps13/iccftps13sasd2/Movies/Dual%20Audio/Hugo%20(2011)%20(Hindi%20&%20English)%201080p%20WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies;Hindi",6. Taare Zameen Par
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",6. Taare Zameen Par
 http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Hindi/Taare%20Zameen%20Par%20(2007)%20720p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies;Hindi",7. Karate Kid Legends (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",7. Karate Kid Legends (Hindi + English)
 http://10.16.100.212/iccftps12/iccftps12sasd7/Movies/Dual%20Audio/Karate%20Kid%20Legends%20(2025)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies;English",1. Seventh Son (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="English Movies",1. Seventh Son (Hindi + English)
 http://10.16.100.206/ftps3/ftps3d4/Movies/Dual%20Audio/Seventh%20Son%20(2014)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Web Series;English",Squid Game S01E01
-http://10.16.100.202/ftps10/iccftps10sasd2/Tv%20Show/Dual%20Audio/Squid%20Game%20(Ojing%20eo%20geim)%20Season%2001%20(2021)%20(Hindi%20&%20English)%20Completed/Squid%20Game%20(Ojing%20eo%20geim)%20S01E01.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Web Series;English",Squid Game S01E02
-http://10.16.100.202/ftps10/iccftps10sasd2/Tv%20Show/Dual%20Audio/Squid%20Game%20(Ojing%20eo%20geim)%20Season%2001%20(2021)%20(Hindi%20&%20English)%20Completed/Squid%20Game%20(Ojing%20eo%20geim)%20S01E02.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Web Series;English",Squid Game S01E03
-http://10.16.100.202/ftps10/iccftps10sasd2/Tv%20Show/Dual%20Audio/Squid%20Game%20(Ojing%20eo%20geim)%20Season%2001%20(2021)%20(Hindi%20&%20English)%20Completed/Squid%20Game%20(Ojing%20eo%20geim)%20S01E03.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Web Series;English",Squid Game S01E04
-http://10.16.100.202/ftps10/iccftps10sasd2/Tv%20Show/Dual%20Audio/Squid%20Game%20(Ojing%20eo%20geim)%20Season%2001%20(2021)%20(Hindi%20&%20English)%20Completed/Squid%20Game%20(Ojing%20eo%20geim)%20S01E04.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Web Series;English",Squid Game S01E05
-http://10.16.100.202/ftps10/iccftps10sasd2/Tv%20Show/Dual%20Audio/Squid%20Game%20(Ojing%20eo%20geim)%20Season%2001%20(2021)%20(Hindi%20&%20English)%20Completed/Squid%20Game%20(Ojing%20eo%20geim)%20S01E05.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Web Series;English",Squid Game S01E06
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Web Series;English",Squid Game S01E07
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Web Series;English",Squid Game S01E08
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Web Series;English",Squid Game S01E09
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Web Series;English",Squid Game S01E010
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Web Series;English",Squid Game S01E011
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Web Series;English",Squid Game S01E012
-
-
-
-
+#EXTGRP: English Web Series
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E01
+http://10.16.100.213/iccftps13/iccftps13sasd2/TV%20Show/Serials%20(English)/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E01.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E02
+http://10.16.100.213/iccftps13/iccftps13sasd2/TV%20Show/Serials%20(English)/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E02.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E03
+http://10.16.100.213/iccftps13/iccftps13sasd2/TV%20Show/Serials%20(English)/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E03.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E04
+http://10.16.100.213/iccftps13/iccftps13sasd2/TV%20Show/Serials%20(English)/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E04.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E05
+http://10.16.100.213/iccftps13/iccftps13sasd2/TV%20Show/Serials%20(English)/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E05.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E06
+http://10.16.100.213/iccftps13/iccftps13sasd2/TV%20Show/Serials%20(English)/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E06.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E07
+http://10.16.100.213/iccftps13/iccftps13sasd2/TV%20Show/Serials%20(English)/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E07.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E08
+http://10.16.100.213/iccftps13/iccftps13sasd2/TV%20Show/Serials%20(English)/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E08.mp4
 
 
 
