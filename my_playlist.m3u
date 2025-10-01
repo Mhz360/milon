@@ -20,21 +20,21 @@ http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Animated/Luca%20(2021)%201080p
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",1. Sitaare Zameen Par
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/sitaare_zameen_par__4k_.jpg" group-title="Hindi Movies",1. Sitaare Zameen Par
 http://10.16.100.213/iccftps13/iccftps13sasd6/Movies/Hindi/Sitaare%20Zameen%20Par%20(2025)%20720p%20WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",2. Bridge to Terabithia (2007) Dual Audio
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Bridge%20to%20Terabithia%202007.jpg" group-title="Hindi Movies",2. Bridge to Terabithia (2007) Dual Audio
 http://10.16.100.241/ftps3d3/Dual%20Audio/Bridge%20to%20Terabithia%20(2007)/Bridge%20to%20Terabithia%202007.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",3. lucky baskhar
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/lucky_baskhar.jpg" group-title="Hindi Movies",3. lucky baskhar
 http://10.16.100.214/iccftps14/iccftps14sasd8/Movies/South%20Indian%20(Hindi%20Dubbed)/Lucky%20Baskhar%20(2024)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",4. Tumbbad
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/tumbbad.jpg" group-title="Hindi Movies",4. Tumbbad
 http://10.16.100.212/iccftps12/iccftps12sasd9/Movies/Hindi/Tumbbad%20(2018)%201080p%20WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",5. Hugo (2011) (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/hugo__2011_.jpg" group-title="Hindi Movies",5. Hugo (2011) (Hindi + English)
 http://10.16.100.213/iccftps13/iccftps13sasd2/Movies/Dual%20Audio/Hugo%20(2011)%20(Hindi%20&%20English)%201080p%20WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",6. Taare Zameen Par
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/taare_zameen_par.jpg" group-title="Hindi Movies",6. Taare Zameen Par
 http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Hindi/Taare%20Zameen%20Par%20(2007)%20720p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",7. Karate Kid Legends (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/karate_kid_legends__hindi___english_.jpg" group-title="Hindi Movies",7. Karate Kid Legends (Hindi + English)
 http://10.16.100.212/iccftps12/iccftps12sasd7/Movies/Dual%20Audio/Karate%20Kid%20Legends%20(2025)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",8. Jolly LLB 3
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/jolly_llb_3.jpg" group-title="Hindi Movies",8. Jolly LLB 3
 http://10.16.100.214/iccftps14/iccftps14sasd8/Movies/Hindi/Jolly%20LLB%203%20(2025)%201080p%20DVDRip.mp4
 
 
@@ -46,22 +46,23 @@ http://10.16.100.247/ftps5d2/Movies/English/Home%20Alone%20(1990)/Home%20Alone%2
 
 
 #EXTGRP: English Web Series
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E01
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E01
 http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E01.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E02
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E02
 http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E02.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E03
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E03
 http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E03.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E04
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E04
 http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E04.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E05
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E05
 http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E05.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E06
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E06
 http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E06.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E07
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E07
 http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E07.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E08
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E08
 http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E08.mp4
+
 
 
 
