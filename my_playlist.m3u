@@ -1,0 +1,22 @@
+
+#EXTM3U
+#EXTGRP:Animated Movies
+#EXTINF:180,Artist Name - Elio
+http://10.16.100.214/iccftps14/iccftps14sasd7/Movies/Animated/Elio%20(2025)%201080p%20WEBRip.mp4
+#EXTINF:205,Another Artist - Another Song Title
+/path/to/bangla/song2.mp3
+
+#EXTGRP:Hindi Movies
+#EXTINF:220, Sitaare Zameen Par
+http://10.16.100.213/iccftps13/iccftps13sasd6/Movies/Hindi/Sitaare%20Zameen%20Par%20(2025)%20720p%20WEBRip.mp4
+#EXTINF:190,Another English Artist - Song Title B
+/path/to/english/songB.mp3
+
+
+#EXTGRP:English Movies
+#EXTINF:220,English Artist - Song Title A
+http://10.16.100.213/iccftps13/iccftps13sasd6/Movies/Hindi/Sitaare%20Zameen%20Par%20(2025)%20720p%20WEBRip.mp4
+#EXTINF:190,Another English Artist - Song Title B
+/path/to/english/songB.mp3
+
+
