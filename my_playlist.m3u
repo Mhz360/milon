@@ -16,6 +16,16 @@ http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Animated/Encanto%20(2021)%2010
 http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Animated/Luca%20(2021)%201080p%20BluRay.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/minuscule_valley_of_the_lost_ants__minuscule_la_vallee_des_fourmis_perdues_.jpg" group-title="Animation Movies",8. Minuscule Valley of the Lost Ants
 http://10.16.100.202/ftps10/iccftps10sasd10/Movies/Animated/Minuscule%20Valley%20of%20the%20Lost%20Ants%20(Minuscule%20La%20vallee%20des%20fourmis%20perdues)%20(2013)%201080p%20BluRay.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/kung_fu_panda__2008___4k_.jpg" group-title="Animation Movies",9. Kung Fu Panda 1
+http://10.16.100.250/ftps10d2/Movies/Animated/Kung%20Fu%20Panda%20(2008)%201080p%20BluRay.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/kung_fu_panda_2__dual_audio_.jpg" group-title="Animation Movies",10. Kung Fu Panda 2
+http://10.16.100.206/ftps3/ftps3d8/Movies/Exclusive%20Full%20HD/English/Kung%20Fu%20Panda%202%20(2011)%201080p%20BluRay.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/kung_fu_panda_3__dual_audio_.jpg" group-title="Animation Movies",11. Kung Fu Panda 3
+http://10.16.100.250/ftps10d1/Movies/Animation/Kung%20Fu%20Panda%203%20(2016)%201080p%20BluRay.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/kung_fu_panda_4.jpg" group-title="Animation Movies",11. Kung Fu Panda 4
+http://10.16.100.212/iccftps12/iccftps12sasd2/Movies/Animated/Kung%20Fu%20Panda%204%20(2024)%201080p%20WEBRip.mp4
+
+
 
 
 
@@ -73,7 +83,10 @@ http://10.16.100.206/ftps3/ftps3d4/Movies/Dual%20Audio/Seventh%20Son%20(2014)%20
 http://10.16.100.247/ftps5d2/Movies/English/Home%20Alone%20(1990)/Home%20Alone%20(1990)%201080p%20BluRay.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/jurassic_world_rebirth.jpg" group-title="English Movies",3. Jurassic World Rebirth
 http://10.16.100.212/iccftps12/iccftps12sasd4/Movies/English/Jurassic%20World%20Rebirth%20(2025)%201080p%20WEBRip.mp4
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/home_alone_2_lost_in_new_york.jpg" group-title="English Movies",4. Home Alone 2
+http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/English/Home%20Alone%202%20Lost%20In%20New%20York%20(1992)%201080p%20BluRay.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/home_alone_3.jpg" group-title="English Movies",5. Home Alone 3
+http://10.16.100.206/ftps3/ftps3d5/Movies/English/Home%20Alone%203%20(1997)%201080p%20WEBRip.mp4
 
 
 
@@ -127,6 +140,7 @@ http://10.16.100.206/ftps3/ftps3d1/Movies/Dual%20Audio/The%20Hobbit%20An%20Unexp
 http://10.16.100.246/ftps4d2/Multi%20Audio%20Dubbed/The%20Hobbit%20The%20Desolation%20of%20Smaug%20(2013)/The%20Hobbit%20The%20Desolation%20of%20Smaug%20(2013).mkv
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_The%20Hobbit%20The%20Battle%20of%20the%20Five%20Armies%20(2014).jpg" group-title="Hobbit",3. Hobbit 3
 http://172.31.31.31/Data/movies/hollywood/2020/The%20Hobbit%20The%20Battle%20of%20the%20Five%20Armies%20(2014)/The.Hobbit.The.Battle.of.the.Five.Armies.2014.720p.BluRay.x264.YIFY.mp4
+
 
 
 
