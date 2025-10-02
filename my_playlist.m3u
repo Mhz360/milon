@@ -54,6 +54,15 @@ http://10.16.100.206/ftps3/ftps3d8/Movies/Hindi/Rang%20De%20Basanti%20(2006)%201
 http://10.16.100.202/ftps10/iccftps10sasd3/Movies/4K/Hindi/Laal%20Singh%20Chaddha%20(2022)%202160p%20WEBDL.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/lagaan__once_upon_a_time_in_india.jpg" group-title="Hindi Movies",17. Lagaan: Once Upon a Time in India
 http://10.16.100.245/ftps2d1/Movies/Hindi/Lagaan%20(2001)%201080p%20BluRay.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/rab_ne_bana_di_jodi.jpg" group-title="Hindi Movies",18. Rab Ne Bana Di Jodi
+http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Rab%20Ne%20Bana%20Di%20Jodi%20(2008)%201080p%20BluRay.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/my_name_is_khan.jpg" group-title="Hindi Movies",19. My Name Is Khan
+http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Hindi/My%20Name%20Is%20Khan%20(2010)%201080p%20BluRay.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/my_name_is_khan.jpg" group-title="Hindi Movies",20. My Name Is Khan
+http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Hindi/My%20Name%20Is%20Khan%20(2010)%201080p%20BluRay.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/chennai_express.jpg" group-title="Hindi Movies",21. Chennai Express
+http://10.16.100.206/ftps3/ftps3d5/Movies/Hindi/Chennai%20Express%20(2013)%201080p%20BluRay.mp4
+
 
 
 
@@ -118,6 +127,7 @@ http://10.16.100.206/ftps3/ftps3d1/Movies/Dual%20Audio/The%20Hobbit%20An%20Unexp
 http://10.16.100.246/ftps4d2/Multi%20Audio%20Dubbed/The%20Hobbit%20The%20Desolation%20of%20Smaug%20(2013)/The%20Hobbit%20The%20Desolation%20of%20Smaug%20(2013).mkv
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_The%20Hobbit%20The%20Battle%20of%20the%20Five%20Armies%20(2014).jpg" group-title="Hobbit",3. Hobbit 3
 http://172.31.31.31/Data/movies/hollywood/2020/The%20Hobbit%20The%20Battle%20of%20the%20Five%20Armies%20(2014)/The.Hobbit.The.Battle.of.the.Five.Armies.2014.720p.BluRay.x264.YIFY.mp4
+
 
 
 
