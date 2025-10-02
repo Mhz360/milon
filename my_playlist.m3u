@@ -42,6 +42,17 @@ http://10.16.100.214/iccftps14/iccftps14sasd8/Movies/Hindi/Jolly%20LLB%203%20(20
 http://10.16.100.206/ftps3/ftps3d4/Movies/Dual%20Audio/Seventh%20Son%20(2014)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Home%20Alone%20(1990).jpg" group-title="English Movies",2. Home Alone (1990)
 http://10.16.100.247/ftps5d2/Movies/English/Home%20Alone%20(1990)/Home%20Alone%20(1990)%201080p%20BluRay.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/jurassic_world_rebirth.jpg" group-title="English Movies",3. Jurassic World Rebirth
+http://10.16.100.212/iccftps12/iccftps12sasd4/Movies/English/Jurassic%20World%20Rebirth%20(2025)%201080p%20WEBRip.mp4
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_hobbit_an_unexpected_journey__hindi___english_.jpg" group-title="Hobbit",1. Hobbit 1
+http://10.16.100.206/ftps3/ftps3d1/Movies/Dual%20Audio/The%20Hobbit%20An%20Unexpected%20Journey%20(2012)%20(Hindi%20&%20English)%201080p%20BluRay.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_The%20Hobbit%20The%20Desolation%20of%20Smaug%20(2013).jpg" group-title="Hobbit",2. Hobbit 2
+http://10.16.100.246/ftps4d2/Multi%20Audio%20Dubbed/The%20Hobbit%20The%20Desolation%20of%20Smaug%20(2013)/The%20Hobbit%20The%20Desolation%20of%20Smaug%20(2013).mkv
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_The%20Hobbit%20The%20Battle%20of%20the%20Five%20Armies%20(2014).jpg" group-title="Hobbit",3. Hobbit 3
+http://172.31.31.31/Data/movies/hollywood/2020/The%20Hobbit%20The%20Battle%20of%20the%20Five%20Armies%20(2014)/The.Hobbit.The.Battle.of.the.Five.Armies.2014.720p.BluRay.x264.YIFY.mp4
 
 
 
@@ -62,6 +73,7 @@ http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Dual%20Audio/The%20Lord%20o
 http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E07.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E08
 http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E08.mp4
+
 
 
 
