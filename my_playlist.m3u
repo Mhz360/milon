@@ -34,10 +34,10 @@ http://10.16.100.246/ftps4d2/Multi%20Audio%20Dubbed/Ice%20Age%20Dawn%20Of%20The%
 http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Dual%20Audio/Ice%20Age%204%20Continental%20Drift%20(2012)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/ice_age__collision_course.jpg" group-title="Animation Movies",16. Ice Age 5
 http://10.16.100.230/ftps1d2/Movies/Animation/Ice%20Age%20Collision%20Course%20(2016)%201080p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/ice_age__collision_course.jpg" group-title="Animation Movies",17. Ice Age 6
-http://10.16.100.230/ftps1d2/Movies/Animation/Ice%20Age%20Collision%20Course%20(2016)%201080p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_ice_age_adventures_of_buck_wild.jpg" group-title="Animation Movies",18. Ice Age 7
-http://10.16.100.206/ftps3/ftps3d1/Movies/Animated/The%20Ice%20Age%20Adventures%20of%20Buck%20Wild%20(2022)%201080p%20WEBRip.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_wild_robot__hindi___english_.jpg" group-title="Animation Movies",17. The Wild Robot
+http://10.16.100.213/iccftps13/iccftps13sasd1/Movies/Dual%20Audio/The%20Wild%20Robot%20(2024)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_wild__2006_.jpg" group-title="Animation Movies",18. The Wild
+http://10.16.100.212/iccftps12/iccftps12sasd4/Movies/Animated/The%20Wild%20(2006)%201080p%20BluRay.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/rango__hindi___english_.jpg" group-title="Animation Movies",19. Rango
 http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Dual%20Audio/Rango%20(2011)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_The%20Peanuts%20Movie%205.jpg" group-title="Animation Movies",20. The Peanuts Movie
@@ -187,6 +187,7 @@ http://10.16.100.206/ftps3/ftps3d1/Movies/Dual%20Audio/The%20Hobbit%20An%20Unexp
 http://10.16.100.246/ftps4d2/Multi%20Audio%20Dubbed/The%20Hobbit%20The%20Desolation%20of%20Smaug%20(2013)/The%20Hobbit%20The%20Desolation%20of%20Smaug%20(2013).mkv
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_The%20Hobbit%20The%20Battle%20of%20the%20Five%20Armies%20(2014).jpg" group-title="Hobbit",3. Hobbit 3
 http://172.31.31.31/Data/movies/hollywood/2020/The%20Hobbit%20The%20Battle%20of%20the%20Five%20Armies%20(2014)/The.Hobbit.The.Battle.of.the.Five.Armies.2014.720p.BluRay.x264.YIFY.mp4
+
 
 
 
