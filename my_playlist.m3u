@@ -42,8 +42,20 @@ http://10.16.100.212/iccftps12/iccftps12sasd4/Movies/Animated/The%20Wild%20(2006
 http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Dual%20Audio/Rango%20(2011)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_The%20Peanuts%20Movie%205.jpg" group-title="Animation Movies",20. The Peanuts Movie
 http://10.16.100.246/ftps4d3/Movie/English/The%20Peanuts%20Movie%20(2015)%20720p%20WEBDL.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/spider_man__into_the_spider_verse__hindi___english_.png" group-title="English Movies",21. Spider-Man Into the Spider Verse
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/spider_man__into_the_spider_verse__hindi___english_.png" group-title="Animation Movies",21. Spider-Man Into the Spider Verse
 http://10.16.100.206/ftps3/ftps3d1/Movies/Dual%20Audio/Spider%20Man%20Into%20the%20Spider%20Verse%20(2018)%20720p%20BluRay.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/madagascar.jpg" group-title="Animation Movies",22. Madagascar 1
+http://10.16.100.212/iccftps12/iccftps12sasd9/Movies/Animated/Madagascar%20(2005)%201080p%20BluRay.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/madagascar_3__europes_most_wanted.jpg" group-title="Animation Movies",23. Madagascar 3
+http://10.16.100.206/ftps3/ftps3d8/Movies/Animated/Madagascar%203%20Europes%20Most%20Wanted%20(2012)%201080p%20BrRip.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/wall_e.jpg" group-title="Animation Movies",24. WALL E
+http://10.16.100.212/iccftps12/iccftps12sasd1/Movies/Animated/WALL%20E%20(2008)%201080p%20BluRay.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/migration__hindi___english_.jpg" group-title="Animation Movies",25. Migration (Hindi + English)
+http://10.16.100.214/iccftps14/iccftps14sasd7/Movies/Dual%20Audio/Migration%20(2023)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/minions.jpg" group-title="Animation Movies",26. Minions
+http://10.16.100.206/ftps3/ftps3d4/Movies/Animated/Minions%20(2015)%201080p%20BluRay.mp4
+
+
 
 
 
@@ -187,6 +199,7 @@ http://10.16.100.206/ftps3/ftps3d1/Movies/Dual%20Audio/The%20Hobbit%20An%20Unexp
 http://10.16.100.246/ftps4d2/Multi%20Audio%20Dubbed/The%20Hobbit%20The%20Desolation%20of%20Smaug%20(2013)/The%20Hobbit%20The%20Desolation%20of%20Smaug%20(2013).mkv
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_The%20Hobbit%20The%20Battle%20of%20the%20Five%20Armies%20(2014).jpg" group-title="Hobbit",3. Hobbit 3
 http://172.31.31.31/Data/movies/hollywood/2020/The%20Hobbit%20The%20Battle%20of%20the%20Five%20Armies%20(2014)/The.Hobbit.The.Battle.of.the.Five.Armies.2014.720p.BluRay.x264.YIFY.mp4
+
 
 
 
